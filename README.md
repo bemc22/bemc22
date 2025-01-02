@@ -2,4 +2,4 @@
 
 ##### My Homepage: https://bemc22.github.io/
 - 📷 I’m currently working on [HDSP](https://github.com/hdspgroup)
-- 📚 Master Student on Computer Science at Universidad Industrial de Santander
+- 📚 Master on Computer Science from Universidad Industrial de Santander
