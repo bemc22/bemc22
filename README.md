@@ -3,3 +3,6 @@
 ##### My Homepage: https://bemc22.github.io/
 - 📷 I’m currently working on [HDSP](https://github.com/hdspgroup)
 - 📚 Master in Computer Science from Universidad Industrial de Santander
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bemc22)](https://github.com/ryo-ma/github-profile-trophy)
