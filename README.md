@@ -5,4 +5,4 @@
 - 📚 Master in Computer Science from Universidad Industrial de Santander
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bemc22)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bemc22&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
