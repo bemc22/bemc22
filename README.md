@@ -1,7 +1,7 @@
 <h1 align="center">Brayan Monroy @bemc22</h1>
 
 ##### My Homepage: https://bemc22.github.io/
-- 📷 I’m currently PhD Student Computer Science on [HDSP](https://github.com/hdspgroup) and Visiting Researcher in [Gipsa-lab](https://www.gipsa-lab.grenoble-inp.fr/)
+- 📷 I’m currently Doctoral Researcher on Computer Science on [HDSP](https://github.com/hdspgroup) and Visiting Researcher in [Gipsa-lab](https://www.gipsa-lab.grenoble-inp.fr/)
 - 💻 Active Contributor on [DeepInverse](https://deepinv.github.io/deepinv)
 - 📚 Master in Computer Science from Universidad Industrial de Santander
 
